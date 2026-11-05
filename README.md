@@ -23,7 +23,7 @@ If your Steam account is registered in a foreign region (`KZT ₸`, `UAH ₴`, `
 
 ## 🖼 Screenshots
 
-|       Currency Settings Widget       |               Store                |              Community Market              |
+|                Widget                |               Store                |              Community Market              |
 | :----------------------------------: | :--------------------------------: | :----------------------------------------: |
 | ![Widget Preview](assets/widget.png) | ![Store Preview](assets/store.png) | ![Community Preview](assets/community.png) |
 
@@ -46,7 +46,7 @@ If your Steam account is registered in a foreign region (`KZT ₸`, `UAH ₴`, `
 
 ### Steam Desktop Client (via Extendium / Millennium)
 
-1. Make sure you have a client modding framework with Chrome Extension support installed (e.g., **Extendium/Millennium**).
+1. Make sure you have a client modding framework with Chrome Extension support installed (e.g., **Extendium** or **Millennium**).
 2. Download the latest release archive from **[Releases](../../releases)** (or clone this repository) and extract it to a folder.
 3. In the Steam Client, navigate to: **Extendium → Manage Extensions → Advanced extension management → Enable "Developer mode" → Click "Load unpacked"** and select the extracted extension folder.
 4. Refresh the active page in your Steam Client.
